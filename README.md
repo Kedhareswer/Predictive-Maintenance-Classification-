@@ -3,7 +3,7 @@
 ## Abstract
 In industrial environments, machine downtime incurs significant costs and productivity losses. This project leverages predictive maintenance with machine learning to forecast failures before they occur, minimizing unplanned downtimes through timely maintenance interventions.
 
-### [Project Resources]: https://drive.google.com/drive/folders/1DU0DDQLojkH1XDAWVB0w80L2PMcG2KZI
+### Project Resources: [Google Drive Folder](https://drive.google.com/drive/folders/1DU0DDQLojkH1XDAWVB0w80L2PMcG2KZI)
 
 ## Objective
 This project aims to design a machine learning model that predicts machine failure based on operational and environmental factors, minimizing unplanned downtimes through timely maintenance interventions.
@@ -18,7 +18,7 @@ This project aims to design a machine learning model that predicts machine failu
 ## Approach
 ### Data Preparation
 - **Dataset**: Utilized a synthetic dataset with 10,000 instances and 14 features.
-- **Preprocessing**: Applied feature extraction methods like ZCR, RMS, and MFCC to trim and process data for model robustness.
+- **Preprocessing**: Applied feature extraction methods to trim and process data for model robustness.
 
 ### Model Architecture
 Employed multiple machine learning models, including Random Forest, Decision Tree, and Support Vector Machines (SVM).
